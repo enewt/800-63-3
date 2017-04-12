@@ -2,7 +2,7 @@
 
 ## 5. <a name="AAL_SEC5"></a>Authenticator and Verifier Requirements
 
-_This section is normative._
+_This section is normative._ffff
 
 This section provides the detailed requirements specific for each type of authenticator. With the exception of reauthentication requirements specified in [Section 4](#AAL_SEC4) and the requirement for verifier impersonation resistance at AAL3 described in [Section 5.2.5](#verifimpers), the technical requirements for each of the authenticator types are the same regardless of the AAL at which the authenticator is used.
 
